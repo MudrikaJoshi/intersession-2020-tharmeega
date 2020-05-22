@@ -11,6 +11,10 @@ Note that comments (such as this) will not appear in the final markdown document
 <!--
 In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 
+Reflection goes here.
+
+![A photo of an arduino circuit](images/button.png "Arduino Circuit from the Button Example")
+
 You're also asked to insert a photo that represents your accomplishments on your first day. 
 - Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
 - Then, insert your photo into your document by modifying the markdown example that has been inserted below.
