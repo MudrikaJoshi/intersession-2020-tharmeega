@@ -1,4 +1,5 @@
-# Add your page title and name here
+# Electronics for the Rest of Us!
+## INSPIRE 1A03 | Tharmeega Manimaran | May 2020 Intersession
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
 A place for each deliverable has been created below for you in this markdown document. 
