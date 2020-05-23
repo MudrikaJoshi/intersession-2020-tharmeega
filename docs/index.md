@@ -10,13 +10,13 @@ Note that comments (such as this) will not appear in the final markdown document
 <!--
 In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 ^Photo should be above
-
 You're also asked to insert a photo that represents your accomplishments on your first day. 
 - Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
 - Then, insert your photo into your document by modifying the markdown example that has been inserted below.
 -->
 
 ## Reflection goes here.
+
 
 ![My first circuit](images/Button.jpg "Arduino Circuit from the Button Example")
 
@@ -27,8 +27,8 @@ Inserting an image takes the form:
 ![image alt text](url/to/photo "Logo Title Text")
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
---> 
 ![Markdown logo](images/markdown.png "This is the Markdown logo!")
+--> 
 
 ## Day 2: Results
 <!--
