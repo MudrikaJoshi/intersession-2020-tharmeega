@@ -97,11 +97,11 @@ void loop()
   Serial.println("");                                  
   delay(5000);                                      // Delay a bit...
 
-if(temp > 28){
+if(temp > 30){
   setColor(255, 0, 0);  // red
    tone(8, 262, 1000);
   }
-  else if(temp > 22 & temp < 30){
+  else if(temp > 20 & temp < 30){
   setColor(0, 255, 0);  // green
   }
   else {
