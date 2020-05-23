@@ -23,16 +23,12 @@ Reflection goes here.
 ![My first circuit](images/Button.jpg "Arduino Circuit from the Button Example")
 
 
-
-<!--
-Inserting an image takes the form: 
-![image alt text](url/to/photo "Logo Title Text")
-See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
-Replace the elements below to insert your picture.
-![Markdown logo](images/markdown.png "This is the Markdown logo!")
---> 
-
 ## Day 2: Results
+
+Summary goes here.
+
+[Here is the link to the code I used.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/RGB.ino)
+
 <!--
 Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
 Provide a short (~150 words) summary of your work on this circuit:
