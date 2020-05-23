@@ -1,4 +1,4 @@
-## Tharmeega's Webpage
+# Tharmeega's Webpage
 
 Intro
 <!--
@@ -8,7 +8,7 @@ Note that comments (such as this) will not appear in the final markdown document
 -->
 
 
-# Day 1: Reflection
+## Day 1: Reflection
 <!--
 In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 ^Photo should be above
@@ -17,7 +17,7 @@ You're also asked to insert a photo that represents your accomplishments on your
 - Then, insert your photo into your document by modifying the markdown example that has been inserted below.
 -->
 
-## Reflection goes here.
+Reflection goes here.
 
 
 ![My first circuit](images/Button.jpg "Arduino Circuit from the Button Example")
