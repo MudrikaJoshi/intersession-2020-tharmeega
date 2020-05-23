@@ -12,7 +12,9 @@ In this section, provide a ~250 word reflection on your first day of the module,
 
 ## Reflection goes here.
 
-![My first circuit](images/Button.png "Arduino Circuit from the Button Example")
+![My first circuit](images/Button.jpg "Arduino Circuit from the Button Example")
+
+^Photo should be above
 
 You're also asked to insert a photo that represents your accomplishments on your first day. 
 - Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
