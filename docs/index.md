@@ -1,8 +1,7 @@
 # Tharmeega's Webpage
 
-Welcome to my project page for the INSPIRE 1A03 Module: Electronics for the Rest of Us! I'll use this page to describe and showcase my work throughout the module. Keep scrolling to view my deliverables :smile:
-"+1" &#151
-"https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8"
+Welcome to my project page for the INSPIRE 1A03 Module: Electronics for the Rest of Us! I'll use this page to describe and showcase my work throughout the module. Keep scrolling to view my deliverables 
+
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
 A place for each deliverable has been created below for you in this markdown document. 
