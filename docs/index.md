@@ -1,6 +1,6 @@
 # Tharmeega's Webpage
 
-Welcome to my project page for the INSPIRE 1A03 Module: Electronics for the Rest of Us! I'll use this page to describe and showcase my work throughout the module. Keep scrolling to view my deliverables .
+Welcome to my project page for INSPIRE 1A03: Electronics for the Rest of Us! I'll use this page to describe and showcase my work throughout the module using text and media. Keep scrolling to view my deliverables.
 
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
