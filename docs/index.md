@@ -41,16 +41,17 @@ Provide a short (~150 words) summary of your work on this circuit:
 ## Arduino build-off results
 <!--
 Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
-In ~300 words, provide a final device description and product pitch: 
-- What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
-- Describe briefly how it works.
-- How could it be used in everyday life (or maybe just in rare cases)? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
-- Include a snippet of code using the ``` ``` characters to display the code properly. 
-Finally, record a short (30 second) video of a 'product pitch' for your device. 
-- Upload the video to Youtube, and use the sample code below to embed your video.
+In ~300 words, provide a final device description and product pitch:
+What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below.
+Describe briefly how it works.
+How could it be used in everyday life (or maybe just in rare cases)?
+Be sure to link to your code (in your GitHub repository) in the text of your response.
+Include a snippet of code using the characters to display the code properly.
 -->
 
+Device Description goes here.
+
+[Here is the link to the code I used.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/weather_station.ino)
 
 <!--
 Below is a general markdown table template. 
@@ -76,6 +77,7 @@ Note that this video won't show when previewing the document in GitHub--it only 
 
 <iframe width="789" height="444" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Youtube video will be above.
 
 ## Final reflection & summary
 <!--
