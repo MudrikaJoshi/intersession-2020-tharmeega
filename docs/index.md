@@ -1,6 +1,6 @@
 # Tharmeega's Webpage
 
-Welcome to my project page for *INSPIRE 1A03:* _**Electronics for the Rest of Us!**_ I'll use this page to describe and showcase my work throughout the module using text and media. Keep scrolling to view my deliverables.
+Welcome to my project page for *INSPIRE 1A03:* _**Electronics for the Rest of Us!**_ I'll use this page to describe and showcase my work and progress throughout the module using text and media. Keep scrolling to view my deliverables: here you'll find reflections, summaries, and device descriptions!
 
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
@@ -18,18 +18,10 @@ I just finished my first year in Arts & Science _(and in our program, we’re kn
 
 ## Day 2: Results
 
-Summary goes here.
+[Here is the link to the code I used for the RGB LED + thermistor circuit.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/RGB.ino)
 
-[Here is the link to the code I used.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/RGB.ino)
+This circuit is one of the most complicated ones that I have made; it uses both an RGB LED and a thermistor! The temperature being sensed by the thermistor is depicted through the RGB LED which changes colours accordingly. Some challenges I faced included the wiring (there was a lot going on in a small area, and it was easy for things to be in the wrong place without being noticed), and also the coding. My serial monitor was not working until I set it to the correct units (11520 baud), and only then would the temperature show accurately. I also learned how to adjust my code! Since I was having a difficult time getting the temperature up to 30, yesterday I adjusted my code so that the LED would turn red at 28 degrees, and since it was warmer in my house today I changed the code so that it was 30 again and changed it in my repository as well! I’m glad this is something I was able to do on my own.
 
-<!--
-Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
-Provide a short (~150 words) summary of your work on this circuit:
-- How does your device work?
-- What was challenging? 
-- What worked? What didn't? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
--->
 
 ## Arduino build-off results
 <!--
