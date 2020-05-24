@@ -10,15 +10,7 @@ Note that comments (such as this) will not appear in the final markdown document
 
 
 ## Day 1: Reflection
-<!--
-In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
-^Photo should be above
-You're also asked to insert a photo that represents your accomplishments on your first day. 
-- Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
-- Then, insert your photo into your document by modifying the markdown example that has been inserted below.
--->
-
-Reflection goes here.
+_I just finished my first year in Arts & Science (and in our program, we’re known for being indecisive), but several months ahead of time I began looking for interesting elective courses to take in the summer. I was really interested in the INSPIRE 1A03 course because of the diversity within the content; I wanted to learn more from different subject areas because I had no idea what I was interested in. I remember a few months ago when I was looking through the module descriptions, Electronics for the Rest of Us seemed difficult because there were several words in the description which I hadn’t known, such as arduino. I felt overwhelmed, and immediately sent an email asking if any previous knowledge was required to take this module. The response was that it was aimed at students with no exposure to electronics, making me the perfect type of student to take it. My whole life, I had never explored coding or anything electronics related, and in some ways I was scared to because I thought it would be too difficult and I wouldn’t be good at it. Writing essays and taking arts courses was more my area of interest. However, I was interested in this module because it was a chance to explore something new in an academic setting with professional guidance and support. All I hope to take away from this module is that I can have basic knowledge about electronics, and I definitely am off to a great start, because I know what arduino is now (board, software, programming language, community), and I’ve even built a basic circuit which uses a button to turn a light on!_
 
 
 ![My first circuit](images/Button.jpg "Arduino Circuit from the Button Example")
