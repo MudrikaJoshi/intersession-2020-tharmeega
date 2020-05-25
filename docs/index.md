@@ -78,27 +78,11 @@ if(temp > 30){
 
 
 }
+ 
 [Here is the link to the full code I used for this device.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/weather_station.ino)
 
 Below is a table that shows the features of the device, and below that, a testing video!
 
-
-
-
-<!--
-Below is a general markdown table template. 
-You can find more information at these links: 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
-
--->
-| Feature | Description | Other Notes |
-|---------|-------------|-------------|
-|LED light |changes colour depending on temperature |* between 20-30: green * 20 or below: blue * 30 or above: red|
-|     Buzzer    |makes a noise if the temperature reaches outside of the 20-30 range       |the tone will be different depending on whether the temperature is too high or too low        |
-|     Thermistor    |   provides information about the temperature and any changes in the temperature          |    the threshold temperatures (20 and 30) can be changed in the code          |
-
-
-try 2
 
 Feature | Description | Other Notes
 ------------ | ------------- | ----------
