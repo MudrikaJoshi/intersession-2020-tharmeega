@@ -86,7 +86,7 @@ Below is a table that shows the features of the device, and below that, a testin
 
 Feature | Description | Other Notes
 ------------ | ------------- | ----------
-LED light | changes colour depending on temperature | between 20-30: green, 20 or below: blue, 30 or above: red
+LED light | changes colour depending on temperature | between 20-30: green / 20 or below: blue / 30 or above: red
 Buzzer | makes a noise if the temperature reaches outside of the 20-30 range | the tone will be different depending on whether the temperature is too high or too low  
 Thermistor| provides information about the temperature and any changes in the temperature | the threshold temperatures (20 and 30) can be changed in the code 
 
@@ -101,7 +101,6 @@ Note that this video won't show when previewing the document in GitHub--it only 
 
 <iframe width="789" height="444" src="https://www.youtube.com/embed/XR2n_l6roBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Youtube video will be above.
 
 ## Final reflection & summary
 
