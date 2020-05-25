@@ -34,9 +34,56 @@ Be sure to link to your code (in your GitHub repository) in the text of your res
 Include a snippet of code using the characters to display the code properly.
 -->
 
-Device Description goes here.
+My final device for the arduino-build off is basically another version of my previous device (which uses the RGB light and thermistor), but with another addition! The other addition is a buzzer which makes a noise that corresponds with the change of colour we will see in the RGB LED. It can be used as a weather station that indicates when the temperature is too high or too low. When it is too hot (30 degrees or above), the light will turn red and the buzzer will make a sound, so that people can hear and see the difference, and when when it is 20 degrees or below, the RGB LED will turn blue and the buzzer will make a noise but a different tone. The code for that specific is as follows:
 
-[Here is the link to the code I used.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/weather_station.ino)
+
+if(temp > 30){
+
+
+
+
+ setColor(255, 0, 0);  // red
+
+
+  tone(8, 262, 1000);
+
+
+ }
+
+
+ else if(temp > 20 & temp < 30){
+
+
+ setColor(0, 255, 0);  // green
+
+
+ }
+
+
+ else {
+
+
+ setColor(0, 0, 255);  // blue
+
+
+ tone(8, 900, 1000);
+
+
+ }
+
+
+
+
+
+
+
+}
+[Here is the link to the full code I used for this device.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/weather_station.ino)
+
+Below is a table that shows the features of the device, and below that, a testing video!
+
+
+
 
 <!--
 Below is a general markdown table template. 
@@ -49,6 +96,15 @@ You can find more information at these links:
 |LED light |changes colour depending on temperature |* between 20-30: green * 20 or below: blue * 30 or above: red|
 |     Buzzer    |makes a noise if the temperature reaches outside of the 20-30 range       |the tone will be different depending on whether the temperature is too high or too low        |
 |     Thermistor    |   provides information about the temperature and any changes in the temperature          |    the threshold temperatures (20 and 30) can be changed in the code          |
+
+
+try 2
+
+Feature | Description | Other Notes
+------------ | ------------- | ----------
+LED light | changes colour depending on temperature | * between 20-30: green * 20 or below: blue * 30 or above: red
+Buzzer | makes a noise if the temperature reaches outside of the 20-30 range | the tone will be different depending on whether the temperature is too high or too low 
+| Thermistor| provides information about the temperature and any changes in the temperature | the threshold temperatures (20 and 30) can be changed in the code 
 
 
 <!--
