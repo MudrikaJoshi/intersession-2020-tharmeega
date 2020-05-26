@@ -36,7 +36,7 @@ Include a snippet of code using the characters to display the code properly.
 
 My final device for the arduino-build off is basically another version of my previous device (which uses the RGB light and thermistor), but with another addition! The other addition is a buzzer which makes a noise that corresponds with the change of colour we will see in the RGB LED. It can be used as a weather station that indicates when the temperature is too high or too low. When it is too hot (30 degrees or above), the light will turn red and the buzzer will make a sound, so that people can hear and see the difference, and when when it is 20 degrees or below, the RGB LED will turn blue and the buzzer will make a noise but a different tone. The code for that specific is as follows:
 
-
+' ' '
 if(temp > 30){
 
 
@@ -78,6 +78,8 @@ if(temp > 30){
 
 
 }
+
+' ' '
  
 [Here is the link to the full code I used for this device.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/weather_station.ino)
 
