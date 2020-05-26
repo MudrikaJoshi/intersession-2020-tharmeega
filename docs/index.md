@@ -36,7 +36,7 @@ Include a snippet of code using the characters to display the code properly.
 
 My final device for the arduino-build off is basically another version of my previous device (which uses the RGB light and thermistor), but with another addition! The other addition is a buzzer which makes a noise that corresponds with the change of colour we will see in the RGB LED. It can be used as a weather station that indicates when the temperature is too high or too low. When it is too hot (30 degrees or above), the light will turn red and the buzzer will make a sound, so that people can hear and see the difference, and when when it is 20 degrees or below, the RGB LED will turn blue and the buzzer will make a noise but a different tone. The code for that specific section is as follows:
 
-'''
+```
 if(temp > 30){
 
 
@@ -79,7 +79,7 @@ if(temp > 30){
 
 }
 
-'''
+```
  
 [Here is the link to the full code I used for this device.](https://github.com/inspire-1a03/intersession-2020-tharmeega/blob/master/weather_station.ino)
 
@@ -93,23 +93,14 @@ Buzzer | makes a noise if the temperature reaches outside of the 20-30 range | t
 Thermistor| provides information about the temperature and any changes in the temperature | the threshold temperatures (20 and 30) can be changed in the code 
 
 
-<!--
-Below is an example of embedding a YouTube video in a markdown document for use in GitHub pages. 
-Note that this video won't show when previewing the document in GitHub--it only works on the GitHub pages webpage. 
-- Once your YouTube video is uploaded, right click and select ```<> Copy embed code```. 
-- You can paste this code directly into your markdown document. 
-- Note that you may want to adjust the width and height parameters to make it fit well in your webpage
--->
 
 <iframe width="789" height="444" src="https://www.youtube.com/embed/XR2n_l6roBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Final reflection & summary
 
-Final reflection will go here.
+Throughout this module, my knowledge about electronics and coding has increased greatly, especially considering that I knew absolutely nothing about this topic earlier. Something I liked about this module was that it catered to different levels of experience and ability; if someone wanted to make a more complex device for the final arduino build-off they definitely could have but if someone (like myself) could only build a simple device than that was totally fine too! Both students would have had a great learning experience while completing the module to the best of their ability. I liked this because it allows all students to step out of their comfort zone while taking control of how advanced they want to go. 
+Within the course, learning how to make a webpage through github was one of the skills that will definitely aid me in the future, and it was much easier than I thought it would be. The frightening idea of coding was introduced to me with the simple basics which made it more manageable and approachable. I also learned that coding can be used in **a lot** of common websites such as reddit and tumblr! I already used coding to change the layout of my tumblr blog and made it look nicer! I only used the basics that we learned in this module, but that’s still something I would have never known about or tried before taking this module! 
+Living in a world where technology is continuously advancing, having this basic knowledge of coding and electronics will allow me to interact with technology (which is something I deal with on a daily basis) with more ease and less hesitation! As with the arduino, I have already been watching some YouTube videos on simple circuits and since I have this arduino kit, I might as well make use of it. Wiring the arduino was challenging for me but once I had rewired it several times I learned that sometimes playing around with it might just get the result I want. I’ve always been someone who likes to play it safe and this course was the first time I learned something outside of my usual subject areas. Overall, after taking this module I feel more electronically literate and won’t be afraid to further delve into electronics or any other new subject area that might seem frightening at first!
 
-<!--
-In ~300 words:
-- Summarize your experience in this module. What you learned, what you liked, what you found challenging.
-- Reflect upon your learning and its relevance in your life.
--->
+        ## THANK YOU! 
